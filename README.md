@@ -9,4 +9,4 @@
 - 김혜빈 https://github.com/khv2644511
 - 손혜수 https://github.com/sduu
 - 이정호 https://github.com/LeeJeongHooo
-- 서윤정
+- 서윤정 https://github.com/annasyun
